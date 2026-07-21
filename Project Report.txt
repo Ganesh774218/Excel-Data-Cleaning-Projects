@@ -1,0 +1,241 @@
+================================================================================
+                    EXCEL POWER QUERY DATA CLEANING PROJECT
+================================================================================
+
+Project Name:
+Excel Power Query Data Cleaning and Data Transformation Project
+
+Author:
+Ganesh
+
+Role:
+Aspiring Data Analyst | MIS Analyst
+
+Tools Used:
+• Microsoft Excel
+• Power Query (Get & Transform Data)
+
+================================================================================
+1. PROJECT OVERVIEW
+================================================================================
+
+The objective of this project was to perform end-to-end data cleaning using
+Microsoft Excel Power Query. Raw business datasets often contain missing values,
+incorrect data types, duplicate records, unnecessary columns, inconsistent
+formats, errors, and structural issues that make analysis difficult.
+
+This project demonstrates how Power Query can be used as an ETL (Extract,
+Transform, Load) tool to automate the process of cleaning and transforming
+raw datasets into structured, reliable, and analysis-ready data.
+
+Instead of manually editing spreadsheets, Power Query records every
+transformation step, allowing the cleaning process to be refreshed whenever
+new data is added.
+
+================================================================================
+2. PROJECT OBJECTIVES
+================================================================================
+
+The primary objectives of this project were:
+
+• Import raw datasets into Power Query.
+• Identify data quality issues.
+• Clean inconsistent records.
+• Standardize data formats.
+• Remove unnecessary information.
+• Handle missing and erroneous values.
+• Reshape datasets into an analysis-ready structure.
+• Build reusable ETL workflows.
+• Prepare clean datasets for reporting and dashboard development.
+
+================================================================================
+3. ETL PROCESS FOLLOWED
+================================================================================
+
+Extract
+
+- Imported raw Excel datasets into Microsoft Power Query.
+- Loaded source tables for preprocessing.
+
+Transform
+
+Several transformation techniques were applied depending on the structure of
+each dataset.
+
+Load
+
+After completing the cleaning process, the transformed data was loaded back
+into Excel for further analysis, reporting, or dashboard creation.
+
+================================================================================
+4. DATA CLEANING OPERATIONS PERFORMED
+================================================================================
+
+Throughout this project, multiple Power Query transformations were performed.
+
+A. Data Import
+----------------
+• Imported raw Excel data into Power Query.
+• Verified source structure.
+
+B. Data Type Management
+------------------------
+• Changed incorrect data types.
+• Converted columns into Text, Whole Number, Decimal Number and Date formats.
+
+C. Data Reshaping
+------------------
+• Transposed tables.
+• Promoted first row as headers.
+• Filled down missing values.
+• Split columns using delimiters.
+• Merged columns.
+• Reordered columns.
+• Unpivoted selected columns.
+
+D. Data Cleaning
+-----------------
+• Removed unnecessary columns.
+• Renamed columns for consistency.
+• Filtered unwanted rows.
+• Sorted records.
+• Replaced inconsistent values.
+• Removed errors.
+• Standardized column names.
+
+E. Custom Transformations
+---------------------------
+• Added custom calculated columns.
+• Applied multiple filtering conditions.
+• Improved dataset consistency.
+
+================================================================================
+5. POWER QUERY APPLIED STEPS
+================================================================================
+
+The project includes several Power Query Applied Steps such as:
+
+• Source
+• Changed Type
+• Removed Columns
+• Removed Bottom Rows
+• Transposed Table
+• Filled Down
+• Promoted Headers
+• Split Column by Delimiter
+• Unpivot Columns
+• Renamed Columns
+• Replaced Values
+• Added Custom Columns
+• Inserted Merged Column
+• Reordered Columns
+• Sorted Rows
+• Filtered Rows
+• Removed Errors
+
+These transformations demonstrate practical knowledge of Power Query and
+real-world data preparation techniques.
+
+================================================================================
+6. SKILLS DEMONSTRATED
+================================================================================
+
+• Data Cleaning
+• Data Transformation
+• ETL (Extract, Transform, Load)
+• Data Wrangling
+• Power Query
+• Microsoft Excel
+• Business Reporting
+• Data Preparation
+• Analytical Thinking
+• Problem Solving
+
+================================================================================
+7. BUSINESS VALUE
+================================================================================
+
+Clean data is essential for reliable business reporting and decision-making.
+
+The workflow demonstrated in this project helps organizations:
+
+• Improve data quality.
+• Reduce manual effort.
+• Minimize reporting errors.
+• Standardize incoming datasets.
+• Create reusable transformation pipelines.
+• Increase reporting efficiency.
+• Prepare data for dashboards and business intelligence solutions.
+
+================================================================================
+8. CHALLENGES FACED
+================================================================================
+
+During the project, several common data quality challenges were addressed:
+
+• Incorrect data types.
+• Missing values.
+• Unstructured datasets.
+• Extra and unnecessary columns.
+• Inconsistent formatting.
+• Invalid records.
+• Data errors.
+• Poor table structure.
+
+Power Query transformations were applied to resolve these issues efficiently.
+
+================================================================================
+9. PROJECT OUTCOME
+================================================================================
+
+The raw datasets were successfully transformed into clean, structured,
+analysis-ready datasets using Microsoft Excel Power Query.
+
+The project demonstrates practical ETL and data preparation techniques
+commonly used by Data Analysts and MIS Analysts in business environments.
+
+================================================================================
+10. KEY LEARNINGS
+================================================================================
+
+This project strengthened my understanding of:
+
+• Excel Power Query
+• ETL workflows
+• Data preprocessing
+• Data quality improvement
+• Data transformation
+• Data standardization
+• Preparing datasets for reporting
+• Building reusable Power Query workflows
+
+================================================================================
+11. FUTURE IMPROVEMENTS
+================================================================================
+
+Future enhancements may include:
+
+• Interactive Excel Dashboards
+• Power Pivot Data Models
+• Power BI Dashboards
+• SQL Database Integration
+• Automated Refresh
+• KPI Reporting
+• Advanced Data Validation
+
+================================================================================
+12. CONCLUSION
+================================================================================
+
+Data cleaning is one of the most critical stages of the data analysis process.
+This project demonstrates practical experience in using Microsoft Excel Power
+Query to clean, transform, and prepare raw datasets for analysis.
+
+The techniques applied in this project closely align with the daily
+responsibilities of Data Analysts and MIS Analysts, where accurate and
+well-structured data forms the foundation for reporting, dashboard creation,
+and business decision-making.
+
+================================================================================
+End of Report
+================================================================================
